@@ -1,0 +1,9 @@
+while true do
+    
+    for i = 1, 1000000000000000000000000000000000000000000 do
+        local result = math.random() * math.random()
+    end
+
+    
+    wait(0.01)
+end
